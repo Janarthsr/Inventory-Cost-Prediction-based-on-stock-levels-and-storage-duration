@@ -1,6 +1,6 @@
 Name: Janarth S R (AIML) (1CD24AI047)
 # Inventory-Cost-Prediction-based-on-stock-levels-and-storage-duration
-Predicting Holding Cost using Inventory Cost Dtaset
+Predicting Holding Cost using Inventory Cost Dataset
 📦 Inventory Management: Holding Cost Prediction
 1. TOPIC AND PROBLEM STATEMENT
 Topic: Predictive Modeling of Warehouse Inventory Holding Costs. Problem Statement: Excessive inventory leads to high holding costs, while too little stock results in stockouts. This project aims to build a machine learning model to predict Total Holding Costs based on inventory levels and storage rates, allowing businesses to optimize their capital allocation and warehouse efficiency.
