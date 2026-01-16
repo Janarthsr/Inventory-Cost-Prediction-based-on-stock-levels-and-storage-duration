@@ -1,3 +1,4 @@
+Name: Janarth S R (AIML) (1CD24AI072)
 # Inventory-Cost-Prediction-based-on-stock-levels-and-storage-duration
 Predicting Holding Cost using Inventory Cost Dtaset
 📦 Inventory Management: Holding Cost Prediction
